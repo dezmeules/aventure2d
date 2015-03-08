@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7fcb813cb24ad4c4494f2e0fcff933e6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - missile: {fileID: 194022, guid: b07ff05657cb6eb49bf177d07aad49fb, type: 2}
+  - enemyAI: {instanceID: 0}
+  - hero: {instanceID: 0}
+  - scPlayerMove: {instanceID: 0}
+  - player: {instanceID: 0}
+  - mainCam: {instanceID: 0}
+  - floorChecks: {instanceID: 0}
+  - triggerParent: {instanceID: 0}
+  - siege: {instanceID: 0}
+  - carRigidbody: {instanceID: 0}
+  - animAuto: {instanceID: 0}
+  - Objectif: {instanceID: 0}
+  - MovementJoystick: {instanceID: 0}
+  - scCamera: {instanceID: 0}
+  - cibleCam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
