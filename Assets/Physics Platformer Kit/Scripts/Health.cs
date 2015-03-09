@@ -61,8 +61,8 @@ public class Health : MonoBehaviour
 			Flash ();
 			if (Time.time > stopFlashTime)
 			{
-			//	flashObject.renderer.material.color = originalColor;
-			//	flashing = false;
+				flashObject.renderer.material.color = originalColor;
+				flashing = false;
 			}
 		}
 		
@@ -75,12 +75,12 @@ public class Health : MonoBehaviour
 	//toggle the flashObject material tint color
 	void Flash()
 	{
-		/*flashObject.renderer.material.color = (hitColor) ? hitFlashColor : originalColor;
+		flashObject.renderer.material.color = (hitColor) ? hitFlashColor : originalColor;
 		if(Time.time > nextFlash)
 		{
 			hitColor = !hitColor;
 			nextFlash = Time.time + hitFlashDelay;
-		}*/
+		}
 	}
 	
 	//respawn object, or destroy it and create the SpawnOnDeath objects

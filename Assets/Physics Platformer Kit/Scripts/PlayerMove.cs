@@ -23,11 +23,17 @@ public class PlayerMove : MonoBehaviour
 	public float decel = 7.6f;
 	public float airDecel = 1.1f;
 	[Range(0f, 5f)]
+
+
+
+
 	
 		public float runspeed = 1.1f;
 	[Range(0f, 5f)]
 
 	public bool video =false;
+	public bool peutAttaquer =true;
+
 
 	public float rotateSpeed = 0.7f, airRotateSpeed = 0.4f;	//how fast to rotate on the ground, how fast to rotate in the air
 	public float maxSpeed = 9;								//maximum speed of movement in X/Z axis
@@ -57,6 +63,9 @@ public class PlayerMove : MonoBehaviour
 	public GameObject GameobjectCanard;
 
 
+	public oiseauanimationlistener oiseauAnimationsListener;
+
+	
 	public bool HoldJumpButton;
 	
 	private int onJump;
@@ -68,6 +77,22 @@ public class PlayerMove : MonoBehaviour
 	
 	private CharacterMotor characterMotor;
 	private DealDamage dealDamage;
+
+
+
+
+
+	public GameObject radio;
+
+
+
+	public TriggerParent SeeBox;
+	public TriggerParent HurtBox;
+
+	
+
+
+
 	
 	//setup
 	void Awake()
@@ -92,6 +117,10 @@ public class PlayerMove : MonoBehaviour
 			Debug.LogWarning ("PlayerMove script assigned to object without the tag 'Player', tag has been assigned automatically", transform);
 		}
 		//usual setup
+
+		radio = GameObject.Find("radio");
+
+
 		mainCam = GameObject.FindGameObjectWithTag("MainCamera").transform;
 		dealDamage = GetComponent<DealDamage>();
 		characterMotor = GetComponent<CharacterMotor>();
@@ -116,7 +145,8 @@ public class PlayerMove : MonoBehaviour
 		//handle jumping
 		JumpCalculations ();
 			
-
+			
+				attackCalculations();
 		
 		
 			
@@ -247,7 +277,65 @@ public class PlayerMove : MonoBehaviour
 		//no none of the floorchecks hit anything, we must be in the air (or water)
 		return false;
 	}
+
+
+
+
+
+	private void attackCalculations()
+	{
+		animator.SetBool("Attaquer", false);
+		
+		if (Input.GetButtonUp ("Fire1"))
+		{
+		animator.SetBool("holdAttaquer",false);
+		}
+		if (Input.GetButtonDown ("Fire1"))
+		{
+			animator.SetBool("holdAttaquer",true);
+
+			if(peutAttaquer==true)
+			{
+				//peutAttaquer=false;
+				animator.SetBool("Attaquer", true);
+				Vector3 currentvelocity;
+				Vector3 tempvelocity;
+				currentvelocity = this.rigidbody.velocity;
+				//tempvelocity=currentvelocity;
+
+				//tempvelocity.y=3;
+
+				//this.rigidbody.velocity = tempvelocity;
+				Jump(new Vector3(0,0,5));
+
+				
+				if(SeeBox.colliding)
+				{
+					print ("DEAL REGARDER");
+
+					characterMotor.RotateToDirection (SeeBox.hitObject.transform.position , 500, true);
+					//characterMotor.MoveTo(SeeBox.hitObject.transform.position*2,20,20,true);
+					//Jump(new Vector3(0,1,10));
+				}
+
+				if(HurtBox.colliding)
+				{
+					print ("DEAL DAMAGE");
+					dealDamage.Attack(SeeBox.hitObject, 1, 1f, 20f);
+					//characterMotor.RotateToDirection (SeeBox.hitObject.transform.position , 500, true);
+				}
+				
+			}
+		}
+
+
+
+	}
 	
+	
+
+
+
 	//jumping
 	private void JumpCalculations()
 	{
@@ -375,6 +463,8 @@ public class PlayerMove : MonoBehaviour
 		animator.SetBool("Victoire",true);
 
 		video=true;
+
+		radio.GetComponent<radio>().jouerChanson("Wariovictoire");
 		//animator.SetFloat("DistanceToTarget",0);
 
 

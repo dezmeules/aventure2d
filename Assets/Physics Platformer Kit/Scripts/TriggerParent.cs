@@ -9,7 +9,7 @@ public class TriggerParent : MonoBehaviour
 	
 	[HideInInspector]
 	public bool collided, colliding;
-	[HideInInspector]
+
 	public GameObject hitObject;
 	
 	void Awake()
@@ -33,7 +33,6 @@ public class TriggerParent : MonoBehaviour
 				}
 				if (other.tag == "floor" )
 				{
-					Debug.Log("BANG TES MORT");
 					break;
 				}
 					

@@ -21,7 +21,7 @@ public class DealDamage : MonoBehaviour
 		}
 		//deal dmg
 		if(health && !health.flashing)
-			health.currentHealth -= dmg;
+			health.TakeDamage(dmg);
 	}
 }
 
