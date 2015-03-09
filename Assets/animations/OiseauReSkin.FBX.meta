@@ -166,7 +166,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    optimizeGameObjects: 0
+    optimizeGameObjects: 1
     motionNodeName: 
     animationCompression: 3
     animationRotationError: .5
@@ -342,7 +342,7 @@ ModelImporter:
     splitTangentsAcrossUV: 1
     normalImportMode: 0
     tangentImportMode: 1
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     human:
@@ -738,7 +738,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_LeftToeBase
-      position: {x: -.012183141, y: .0735869557, z: .258255661}
+      position: {x: -.0121831419, y: .0735869557, z: .258255661}
       rotation: {x: -3.7252903e-09, y: 7.4505806e-09, z: 1.49011612e-08, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
@@ -748,7 +748,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_Spine1
-      position: {x: -1.25863868e-17, y: .164775133, z: 0}
+      position: {x: -1.25863876e-17, y: .164775133, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
@@ -778,7 +778,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_LeftHandThumb2
-      position: {x: -.0788391232, y: -.00248271227, z: .0221740007}
+      position: {x: -.0788391307, y: -.0024827125, z: .0221740007}
       rotation: {x: -.00125640223, y: .104996309, z: .0133882184, w: .994381726}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
@@ -788,7 +788,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_LeftHandIndex1
-      position: {x: -.213115275, y: .00574731827, z: .122430645}
+      position: {x: -.213115275, y: .00574731827, z: .122430652}
       rotation: {x: -.00885722693, y: .0806309581, z: -.0506964289, w: .995414555}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
@@ -818,12 +818,12 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_LeftHandRing1
-      position: {x: -.236782134, y: .00658178329, z: -.123736247}
+      position: {x: -.236782134, y: .00658178329, z: -.123736255}
       rotation: {x: -.000538184599, y: .00756709604, z: -.0709403679, w: .997451723}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_LeftHandRing2
-      position: {x: -.0956574678, y: -5.96046448e-08, z: 0}
+      position: {x: -.0956574753, y: -5.96046448e-08, z: 0}
       rotation: {x: -.00220015272, y: -.00383260008, z: .0320099592, w: .999477804}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
@@ -833,7 +833,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_RightShoulder
-      position: {x: .177399024, y: .0851541758, z: .0265938994}
+      position: {x: .177399039, y: .0851541758, z: .0265938994}
       rotation: {x: 1, y: 0, z: -0, w: 4.37113918e-08}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
@@ -873,7 +873,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_RightHandIndex2
-      position: {x: .0929162502, y: -.0135380626, z: -.022691533}
+      position: {x: .0929162577, y: -.0135380626, z: -.022691533}
       rotation: {x: -.0433439165, y: -.00160935312, z: -.176522508, w: .983340502}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
@@ -883,22 +883,22 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_rightHandMiddle1
-      position: {x: .240167797, y: -.00714200735, z: -.00532466173}
+      position: {x: .240167812, y: -.00714200735, z: -.00532466173}
       rotation: {x: 0, y: 4.75420469e-17, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_RightHandMiddle2
-      position: {x: .108827114, y: -.0135379434, z: -.0132858045}
+      position: {x: .108827122, y: -.0135379434, z: -.0132858045}
       rotation: {x: -.0240470581, y: -.0241015553, z: -.172416225, w: .984435678}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_RightHandMiddle3
-      position: {x: .104579687, y: .0320039988, z: -.0190595649}
+      position: {x: .104579695, y: .0320039988, z: -.0190595649}
       rotation: {x: 0, y: 4.75420469e-17, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Character1_RightHandRing1
-      position: {x: .232152283, y: -.00658160448, z: .121034771}
+      position: {x: .232152283, y: -.00658160495, z: .121034771}
       rotation: {x: 0, y: 4.75420469e-17, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
@@ -923,7 +923,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Blow
-      position: {x: -7.48605633, y: -1.30643785, z: .0983642191}
+      position: {x: -7.4860568, y: -1.30643785, z: .0983642191}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
@@ -933,7 +933,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Frown
-      position: {x: -3.74302816, y: -1.30643785, z: .0983642191}
+      position: {x: -3.7430284, y: -1.30643785, z: .0983642191}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1

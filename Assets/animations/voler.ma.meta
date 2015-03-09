@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1e54e3cacd991d94c97bbf5dfd7c9975
+guid: 59d6b90b59a8e2a4189c7d6e1b527a08
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
@@ -49,84 +49,15 @@ ModelImporter:
     100086: Character1_RightUpLeg
     100088: Character1_Spine
     100090: Character1_Spine1
-    100092: group1
-    100094: Oiseau_Ctrl:ChestEndEffector
-    100096: Oiseau_Ctrl:ChestOriginEffector
-    100098: Oiseau_Ctrl:Head
-    100100: Oiseau_Ctrl:HeadEffector
-    100102: Oiseau_Ctrl:Hips
-    100104: Oiseau_Ctrl:HipsEffector
-    100106: Oiseau_Ctrl:LeftAnkleEffector
-    100108: Oiseau_Ctrl:LeftArm
-    100110: Oiseau_Ctrl:LeftElbowEffector
-    100112: Oiseau_Ctrl:LeftFoot
-    100114: Oiseau_Ctrl:LeftFootEffector
-    100116: Oiseau_Ctrl:LeftForeArm
-    100118: Oiseau_Ctrl:LeftHand
-    100120: Oiseau_Ctrl:LeftHandIndex1
-    100122: Oiseau_Ctrl:LeftHandIndex2
-    100124: Oiseau_Ctrl:LeftHandIndex3
-    100126: Oiseau_Ctrl:LeftHandIndexEffector
-    100128: Oiseau_Ctrl:LeftHandMiddle1
-    100130: Oiseau_Ctrl:LeftHandMiddle2
-    100132: Oiseau_Ctrl:LeftHandMiddle3
-    100134: Oiseau_Ctrl:LeftHandMiddleEffector
-    100136: Oiseau_Ctrl:LeftHandRing1
-    100138: Oiseau_Ctrl:LeftHandRing2
-    100140: Oiseau_Ctrl:LeftHandRing3
-    100142: Oiseau_Ctrl:LeftHandRingEffector
-    100144: Oiseau_Ctrl:LeftHandThumb1
-    100146: Oiseau_Ctrl:LeftHandThumb2
-    100148: Oiseau_Ctrl:LeftHandThumb3
-    100150: Oiseau_Ctrl:LeftHandThumbEffector
-    100152: Oiseau_Ctrl:LeftHipEffector
-    100154: Oiseau_Ctrl:LeftKneeEffector
-    100156: Oiseau_Ctrl:LeftLeg
-    100158: Oiseau_Ctrl:LeftShoulder
-    100160: Oiseau_Ctrl:LeftShoulderEffector
-    100162: Oiseau_Ctrl:LeftToeBase
-    100164: Oiseau_Ctrl:LeftUpLeg
-    100166: Oiseau_Ctrl:LeftWristEffector
-    100168: Oiseau_Ctrl:Neck
-    100170: Oiseau_Ctrl:Reference
-    100172: Oiseau_Ctrl:RightAnkleEffector
-    100174: Oiseau_Ctrl:RightArm
-    100176: Oiseau_Ctrl:RightElbowEffector
-    100178: Oiseau_Ctrl:RightFoot
-    100180: Oiseau_Ctrl:RightFootEffector
-    100182: Oiseau_Ctrl:RightForeArm
-    100184: Oiseau_Ctrl:RightHand
-    100186: Oiseau_Ctrl:RightHandIndex1
-    100188: Oiseau_Ctrl:RightHandIndex2
-    100190: Oiseau_Ctrl:RightHandIndex3
-    100192: Oiseau_Ctrl:RightHandIndexEffector
-    100194: Oiseau_Ctrl:RightHandMiddle1
-    100196: Oiseau_Ctrl:RightHandMiddle2
-    100198: Oiseau_Ctrl:RightHandMiddle3
-    100200: Oiseau_Ctrl:RightHandMiddleEffector
-    100202: Oiseau_Ctrl:RightHandRing1
-    100204: Oiseau_Ctrl:RightHandRing2
-    100206: Oiseau_Ctrl:RightHandRing3
-    100208: Oiseau_Ctrl:RightHandRingEffector
-    100210: Oiseau_Ctrl:RightHandThumb1
-    100212: Oiseau_Ctrl:RightHandThumb2
-    100214: Oiseau_Ctrl:RightHandThumb3
-    100216: Oiseau_Ctrl:RightHandThumbEffector
-    100218: Oiseau_Ctrl:RightHipEffector
-    100220: Oiseau_Ctrl:RightKneeEffector
-    100222: Oiseau_Ctrl:RightLeg
-    100224: Oiseau_Ctrl:RightShoulder
-    100226: Oiseau_Ctrl:RightShoulderEffector
-    100228: Oiseau_Ctrl:RightToeBase
-    100230: Oiseau_Ctrl:RightUpLeg
-    100232: Oiseau_Ctrl:RightWristEffector
-    100234: Oiseau_Ctrl:Spine
-    100236: Oiseau_Ctrl:Spine1
-    100238: //RootNode
-    100240: polySurface10
-    100242: polySurface3
-    100244: polySurface43
-    100246: polySurface44
+    100092: directionalLight1
+    100094: directionalLight2
+    100096: directionalLight3
+    100098: group1
+    100100: polySurface10
+    100102: polySurface3
+    100104: polySurface43
+    100106: polySurface44
+    100108: //RootNode
     400000: Character1_Head
     400002: Character1_Hips
     400004: Character1_LeftArm
@@ -173,98 +104,27 @@ ModelImporter:
     400086: Character1_RightUpLeg
     400088: Character1_Spine
     400090: Character1_Spine1
-    400092: group1
-    400094: Oiseau_Ctrl:ChestEndEffector
-    400096: Oiseau_Ctrl:ChestOriginEffector
-    400098: Oiseau_Ctrl:Head
-    400100: Oiseau_Ctrl:HeadEffector
-    400102: Oiseau_Ctrl:Hips
-    400104: Oiseau_Ctrl:HipsEffector
-    400106: Oiseau_Ctrl:LeftAnkleEffector
-    400108: Oiseau_Ctrl:LeftArm
-    400110: Oiseau_Ctrl:LeftElbowEffector
-    400112: Oiseau_Ctrl:LeftFoot
-    400114: Oiseau_Ctrl:LeftFootEffector
-    400116: Oiseau_Ctrl:LeftForeArm
-    400118: Oiseau_Ctrl:LeftHand
-    400120: Oiseau_Ctrl:LeftHandIndex1
-    400122: Oiseau_Ctrl:LeftHandIndex2
-    400124: Oiseau_Ctrl:LeftHandIndex3
-    400126: Oiseau_Ctrl:LeftHandIndexEffector
-    400128: Oiseau_Ctrl:LeftHandMiddle1
-    400130: Oiseau_Ctrl:LeftHandMiddle2
-    400132: Oiseau_Ctrl:LeftHandMiddle3
-    400134: Oiseau_Ctrl:LeftHandMiddleEffector
-    400136: Oiseau_Ctrl:LeftHandRing1
-    400138: Oiseau_Ctrl:LeftHandRing2
-    400140: Oiseau_Ctrl:LeftHandRing3
-    400142: Oiseau_Ctrl:LeftHandRingEffector
-    400144: Oiseau_Ctrl:LeftHandThumb1
-    400146: Oiseau_Ctrl:LeftHandThumb2
-    400148: Oiseau_Ctrl:LeftHandThumb3
-    400150: Oiseau_Ctrl:LeftHandThumbEffector
-    400152: Oiseau_Ctrl:LeftHipEffector
-    400154: Oiseau_Ctrl:LeftKneeEffector
-    400156: Oiseau_Ctrl:LeftLeg
-    400158: Oiseau_Ctrl:LeftShoulder
-    400160: Oiseau_Ctrl:LeftShoulderEffector
-    400162: Oiseau_Ctrl:LeftToeBase
-    400164: Oiseau_Ctrl:LeftUpLeg
-    400166: Oiseau_Ctrl:LeftWristEffector
-    400168: Oiseau_Ctrl:Neck
-    400170: Oiseau_Ctrl:Reference
-    400172: Oiseau_Ctrl:RightAnkleEffector
-    400174: Oiseau_Ctrl:RightArm
-    400176: Oiseau_Ctrl:RightElbowEffector
-    400178: Oiseau_Ctrl:RightFoot
-    400180: Oiseau_Ctrl:RightFootEffector
-    400182: Oiseau_Ctrl:RightForeArm
-    400184: Oiseau_Ctrl:RightHand
-    400186: Oiseau_Ctrl:RightHandIndex1
-    400188: Oiseau_Ctrl:RightHandIndex2
-    400190: Oiseau_Ctrl:RightHandIndex3
-    400192: Oiseau_Ctrl:RightHandIndexEffector
-    400194: Oiseau_Ctrl:RightHandMiddle1
-    400196: Oiseau_Ctrl:RightHandMiddle2
-    400198: Oiseau_Ctrl:RightHandMiddle3
-    400200: Oiseau_Ctrl:RightHandMiddleEffector
-    400202: Oiseau_Ctrl:RightHandRing1
-    400204: Oiseau_Ctrl:RightHandRing2
-    400206: Oiseau_Ctrl:RightHandRing3
-    400208: Oiseau_Ctrl:RightHandRingEffector
-    400210: Oiseau_Ctrl:RightHandThumb1
-    400212: Oiseau_Ctrl:RightHandThumb2
-    400214: Oiseau_Ctrl:RightHandThumb3
-    400216: Oiseau_Ctrl:RightHandThumbEffector
-    400218: Oiseau_Ctrl:RightHipEffector
-    400220: Oiseau_Ctrl:RightKneeEffector
-    400222: Oiseau_Ctrl:RightLeg
-    400224: Oiseau_Ctrl:RightShoulder
-    400226: Oiseau_Ctrl:RightShoulderEffector
-    400228: Oiseau_Ctrl:RightToeBase
-    400230: Oiseau_Ctrl:RightUpLeg
-    400232: Oiseau_Ctrl:RightWristEffector
-    400234: Oiseau_Ctrl:Spine
-    400236: Oiseau_Ctrl:Spine1
-    400238: //RootNode
-    400240: polySurface10
-    400242: polySurface3
-    400244: polySurface43
-    400246: polySurface44
+    400092: directionalLight1
+    400094: directionalLight2
+    400096: directionalLight3
+    400098: group1
+    400100: polySurface10
+    400102: polySurface3
+    400104: polySurface43
+    400106: polySurface44
+    400108: //RootNode
     2300000: polySurface10
     2300002: polySurface3
     2300004: polySurface43
-    2300006: polySurface44
     3300000: polySurface10
     3300002: polySurface3
     3300004: polySurface43
-    3300006: polySurface44
     4300000: polySurface3
     4300002: polySurface10
     4300004: polySurface43
     4300006: polySurface44
-    7400000: oiseaucourse
-    7400002: Take 001
+    7400000: ouseauvoler
+    7400002: tomber
     9500000: //RootNode
     13700000: polySurface44
   materials:
@@ -284,19 +144,19 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: oiseaucourse
+      name: ouseauvoler
       takeName: Take 001
-      firstFrame: 0
-      lastFrame: 19
+      firstFrame: 1
+      lastFrame: 26
       wrapMode: 0
       orientationOffsetY: 0
-      level: 2.98000002
+      level: 0
       cycleOffset: 0
       loop: 0
       loopTime: 1
-      loopBlend: 1
+      loopBlend: 0
       loopBlendOrientation: 1
-      loopBlendPositionY: 0
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 1
       keepOriginalOrientation: 1
       keepOriginalPositionY: 1
@@ -430,178 +290,40 @@ ModelImporter:
         weight: 1
       - path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Neck/Character1_Head/polySurface43
         weight: 1
+      - path: directionalLight1
+        weight: 1
+      - path: directionalLight2
+        weight: 1
+      - path: directionalLight3
+        weight: 1
       - path: group1
         weight: 1
       - path: group1/polySurface3
         weight: 1
       - path: group1/polySurface10
         weight: 1
-      - path: Oiseau_Ctrl:Reference
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:ChestEndEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:ChestOriginEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:HeadEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:LeftUpLeg
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:LeftUpLeg/Oiseau_Ctrl:LeftLeg
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:LeftUpLeg/Oiseau_Ctrl:LeftLeg/Oiseau_Ctrl:LeftFoot
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:LeftUpLeg/Oiseau_Ctrl:LeftLeg/Oiseau_Ctrl:LeftFoot/Oiseau_Ctrl:LeftToeBase
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:RightUpLeg
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:RightUpLeg/Oiseau_Ctrl:RightLeg
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:RightUpLeg/Oiseau_Ctrl:RightLeg/Oiseau_Ctrl:RightFoot
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:RightUpLeg/Oiseau_Ctrl:RightLeg/Oiseau_Ctrl:RightFoot/Oiseau_Ctrl:RightToeBase
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandIndex1
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandIndex1/Oiseau_Ctrl:LeftHandIndex2
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandIndex1/Oiseau_Ctrl:LeftHandIndex2/Oiseau_Ctrl:LeftHandIndex3
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandMiddle1
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandMiddle1/Oiseau_Ctrl:LeftHandMiddle2
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandMiddle1/Oiseau_Ctrl:LeftHandMiddle2/Oiseau_Ctrl:LeftHandMiddle3
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandRing1
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandRing1/Oiseau_Ctrl:LeftHandRing2
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandRing1/Oiseau_Ctrl:LeftHandRing2/Oiseau_Ctrl:LeftHandRing3
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandThumb1
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandThumb1/Oiseau_Ctrl:LeftHandThumb2
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandThumb1/Oiseau_Ctrl:LeftHandThumb2/Oiseau_Ctrl:LeftHandThumb3
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:Neck
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:Neck/Oiseau_Ctrl:Head
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandIndex1
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandIndex1/Oiseau_Ctrl:RightHandIndex2
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandIndex1/Oiseau_Ctrl:RightHandIndex2/Oiseau_Ctrl:RightHandIndex3
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandMiddle1
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandMiddle1/Oiseau_Ctrl:RightHandMiddle2
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandMiddle1/Oiseau_Ctrl:RightHandMiddle2/Oiseau_Ctrl:RightHandMiddle3
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandRing1
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandRing1/Oiseau_Ctrl:RightHandRing2
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandRing1/Oiseau_Ctrl:RightHandRing2/Oiseau_Ctrl:RightHandRing3
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandThumb1
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandThumb1/Oiseau_Ctrl:RightHandThumb2
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandThumb1/Oiseau_Ctrl:RightHandThumb2/Oiseau_Ctrl:RightHandThumb3
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:HipsEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftAnkleEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftElbowEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftFootEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHandIndexEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHandMiddleEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHandRingEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHandThumbEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHipEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftKneeEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftShoulderEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftWristEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightAnkleEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightElbowEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightFootEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHandIndexEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHandMiddleEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHandRingEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHandThumbEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHipEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightKneeEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightShoulderEffector
-        weight: 1
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightWristEffector
-        weight: 1
       - path: polySurface44
         weight: 1
       maskType: 0
       maskSource: {instanceID: 0}
     - serializedVersion: 16
-      name: Take 001
+      name: tomber
       takeName: Take 001
-      firstFrame: 0
-      lastFrame: 19
+      firstFrame: 19
+      lastFrame: 25
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
+      keepOriginalPositionXZ: 1
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
@@ -731,155 +453,17 @@ ModelImporter:
         weight: 1
       - path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Neck/Character1_Head/polySurface43
         weight: 0
+      - path: directionalLight1
+        weight: 0
+      - path: directionalLight2
+        weight: 0
+      - path: directionalLight3
+        weight: 0
       - path: group1
         weight: 0
       - path: group1/polySurface3
         weight: 0
       - path: group1/polySurface10
-        weight: 0
-      - path: Oiseau_Ctrl:Reference
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:ChestEndEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:ChestOriginEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:HeadEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:LeftUpLeg
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:LeftUpLeg/Oiseau_Ctrl:LeftLeg
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:LeftUpLeg/Oiseau_Ctrl:LeftLeg/Oiseau_Ctrl:LeftFoot
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:LeftUpLeg/Oiseau_Ctrl:LeftLeg/Oiseau_Ctrl:LeftFoot/Oiseau_Ctrl:LeftToeBase
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:RightUpLeg
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:RightUpLeg/Oiseau_Ctrl:RightLeg
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:RightUpLeg/Oiseau_Ctrl:RightLeg/Oiseau_Ctrl:RightFoot
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:RightUpLeg/Oiseau_Ctrl:RightLeg/Oiseau_Ctrl:RightFoot/Oiseau_Ctrl:RightToeBase
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandIndex1
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandIndex1/Oiseau_Ctrl:LeftHandIndex2
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandIndex1/Oiseau_Ctrl:LeftHandIndex2/Oiseau_Ctrl:LeftHandIndex3
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandMiddle1
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandMiddle1/Oiseau_Ctrl:LeftHandMiddle2
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandMiddle1/Oiseau_Ctrl:LeftHandMiddle2/Oiseau_Ctrl:LeftHandMiddle3
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandRing1
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandRing1/Oiseau_Ctrl:LeftHandRing2
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandRing1/Oiseau_Ctrl:LeftHandRing2/Oiseau_Ctrl:LeftHandRing3
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandThumb1
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandThumb1/Oiseau_Ctrl:LeftHandThumb2
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:LeftShoulder/Oiseau_Ctrl:LeftArm/Oiseau_Ctrl:LeftForeArm/Oiseau_Ctrl:LeftHand/Oiseau_Ctrl:LeftHandThumb1/Oiseau_Ctrl:LeftHandThumb2/Oiseau_Ctrl:LeftHandThumb3
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:Neck
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:Neck/Oiseau_Ctrl:Head
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandIndex1
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandIndex1/Oiseau_Ctrl:RightHandIndex2
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandIndex1/Oiseau_Ctrl:RightHandIndex2/Oiseau_Ctrl:RightHandIndex3
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandMiddle1
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandMiddle1/Oiseau_Ctrl:RightHandMiddle2
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandMiddle1/Oiseau_Ctrl:RightHandMiddle2/Oiseau_Ctrl:RightHandMiddle3
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandRing1
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandRing1/Oiseau_Ctrl:RightHandRing2
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandRing1/Oiseau_Ctrl:RightHandRing2/Oiseau_Ctrl:RightHandRing3
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandThumb1
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandThumb1/Oiseau_Ctrl:RightHandThumb2
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:Hips/Oiseau_Ctrl:Spine/Oiseau_Ctrl:Spine1/Oiseau_Ctrl:RightShoulder/Oiseau_Ctrl:RightArm/Oiseau_Ctrl:RightForeArm/Oiseau_Ctrl:RightHand/Oiseau_Ctrl:RightHandThumb1/Oiseau_Ctrl:RightHandThumb2/Oiseau_Ctrl:RightHandThumb3
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:HipsEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftAnkleEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftElbowEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftFootEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHandIndexEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHandMiddleEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHandRingEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHandThumbEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftHipEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftKneeEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftShoulderEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:LeftWristEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightAnkleEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightElbowEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightFootEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHandIndexEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHandMiddleEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHandRingEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHandThumbEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightHipEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightKneeEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightShoulderEffector
-        weight: 0
-      - path: Oiseau_Ctrl:Reference/Oiseau_Ctrl:RightWristEffector
         weight: 0
       - path: polySurface44
         weight: 0
@@ -888,7 +472,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

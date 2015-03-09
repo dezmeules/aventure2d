@@ -355,7 +355,6 @@ public class PlayerMove : MonoBehaviour
 		rigidbody.velocity = new Vector3(rigidbody.velocity.x, 0f, rigidbody.velocity.z);
 		rigidbody.AddRelativeForce (jumpVelocity, ForceMode.Impulse);
 		airPressTime = 0f;
-		print ("BOING");
 	}
 
 
